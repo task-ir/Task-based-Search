@@ -34,19 +34,19 @@ approaches.
 
 ### Outline of the tutorial
 ```
-1. **Introduction**
-  - Evolution of search
+1. Introduction
+  - Evolution of search
   - Functionality levels of search offerings
   - Conversational & Task completion engines
   
-2. **Query Intents, Sessions and Tasks**
-  - Understanding query level intent
+2. Query Intents, Sessions and Tasks
+  - Understanding query level intent
   - Session based modelling
   - From sessions to tasks: multitasking, user groups
   - Behaviorial differences & topical heterogeneity
   
-3. **Task extraction algorithms**
-  - Latent task extraction
+3. Task extraction algorithms
+  - Latent task extraction
     - Clustering based approaches
     - Entity based task extraction
     - Structured learning approach
@@ -59,20 +59,20 @@ approaches.
     - Bayesian Rose Trees
     - Bayesian Non-parametric approach
     
-4. **Evaluation Mechanisms**
-  - Gold standard dataset
+4. Evaluation Mechanisms
+  - Gold standard dataset
   - Designing user studies for hierarchical evaluation
   - Alternate evaluation techniques
   - TREC Tasks Tracks
   
-5. **Applications**
-  - Task based Personalization
+5. Applications
+  - Task based Personalization
   - Task based Metrics
   - Task based Embeddings
   - Task based User Satisfaction
   
-6. **Conclusion**
-  - Open Research questions
+6. Conclusion
+  - Open Research questions
 ```
 
 ### Organizers
