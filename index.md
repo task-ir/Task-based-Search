@@ -1,6 +1,6 @@
-## Task based Search
-### Understanding & Inferring User Tasks and Needs
+## Understanding & Inferring User Tasks and Needs
 
+### Abstract
 Search behavior, and information behavior more generally, is often motivated by tasks that prompt search processes that are
 often lengthy, iterative, and intermittent, and are characterized by distinct stages, shifting goals and multitasking. Current
 search systems do not provide adequate support for users tackling complex tasks due to which the cognitive burden of keeping
