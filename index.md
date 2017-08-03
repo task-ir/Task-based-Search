@@ -78,6 +78,6 @@ approaches.
 ### Organizers
 1. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), Associate Professor, University College London; Faculty Fellow, Alan Turing Institute, London
 
-2. [Ahmed Hassan Awadallah](research.microsoft.com/en-us/um/people/hassanam/), Research Manager/Researcher, Microsoft Research
+2. [Ahmed Hassan Awadallah](http://research.microsoft.com/en-us/um/people/hassanam/), Research Manager/Researcher, Microsoft Research
 
 3. [Rishabh Mehrotra](http://www.rishabhmehrotra.com), Final year PhD student, University College London
