@@ -2,6 +2,7 @@
 
 ### Venues
 [WWW 2018, Lyon, France](https://www2018.thewebconf.org/program/tutorials-track/tutorial-222/)
+
 [CIKM 2017, Singapore](http://www.cikmconference.org/CIKM2017/tutorialmain.html)
 
 ### Abstract
@@ -39,11 +40,15 @@ approaches.
   - Functionality levels of search offerings
   - Conversational & Task completion engines
   
-2. Query Intents, Sessions and Tasks
-  - Understanding query level intent
-  - Session based modelling
-  - From sessions to tasks: multitasking, user groups
-  - Behaviorial differences & topical heterogeneity
+2. Characterizing Tasks
+  - Understanding Intents & Tasks
+    - Query Intents in IR
+    - Session based modelling
+    - From sessions to tasks
+  - Characterizing Tasks across devices
+    - Desktop based search
+    - Digital Assistants
+    - Voice-only assistants
   
 3. Task extraction algorithms
   - Latent task extraction
@@ -58,22 +63,37 @@ approaches.
     - Agglomerative Clustering
     - Bayesian Rose Trees
     - Bayesian Non-parametric approach
-    
-4. Evaluation Mechanisms
-  - Gold standard dataset
-  - Designing user studies for hierarchical evaluation
-  - Alternate evaluation techniques
-  - TREC Tasks Tracks
+  - Task understanding in Digital Assistants
+  - Evaluation Mechanisms
+    - Gold standard dataset
+    - Designing user studies for hierarchical evaluation
+    - Alternate evaluation techniques
+    - TREC Tasks Tracks
+
+4. Task based Evaluation
+  - User behavior signals
+  - Predictive models of SAT
+  - Explicit satisfaction signals
   
 5. Applications
   - Task based Personalization
-  - Task based Metrics
-  - Task based Embeddings
-  - Task based User Satisfaction
+  - Task based recommendations
+  - Task tours
+  - Predicting Task continuation
+  - Task completion dialogue systems
   
 6. Conclusion
   - Open Research questions
 ```
+
+### Slides
+Parts 1 & 2: [link to slides](https://www.slideshare.net/erishabh/www-2018-tutorial-understanding-user-needs-tasks-parts-1-2)
+
+Part 3: [link to slides](https://www.slideshare.net/erishabh/part-3-www-2018-tutorial-on-understanding-user-needs-tasks)
+
+Part 4: [link to slides](https://www.slideshare.net/erishabh/part-4-www-2018-tutorial-on-understanding-user-needs-tasks)
+
+Parts 5 & 6: [link to slides](https://www.slideshare.net/erishabh/parts-5-6-www-2018-tutorial-on-understanding-user-needs-tasks)
 
 ### Organizers
 1. [Rishabh Mehrotra](http://www.rishabhmehrotra.com), Research Scientist, Spotify Research, London
