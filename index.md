@@ -1,5 +1,9 @@
 ## Understanding & Inferring User Tasks and Needs
 
+### Venues
+[WWW 2018, Lyon, France](https://www2018.thewebconf.org/program/tutorials-track/tutorial-222/)
+[CIKM 2017, Singapore](http://www.cikmconference.org/CIKM2017/tutorialmain.html)
+
 ### Abstract
 Search behavior, and information behavior more generally, is often motivated by tasks that prompt search processes that are
 often lengthy, iterative, and intermittent, and are characterized by distinct stages, shifting goals and multitasking. Current
@@ -15,11 +19,7 @@ based systems & summarize few key open research questions.
 
 
 ### Target Audience
-Intermediate researchers, industry technologists and practitioners. We are expecting a general background in information retrieval
-and machine learning. Given the interest of the CIKM community in information access, retrieval and user modelling,
-this tutorial on task based systems will provides CIKM attendees with a novel perspective of analysing log data, enabling them
-to view user interactions in a new light. The algorithmic approaches presented would help not only academic researchers but
-also industrial practitioners in better developing systems which support users in accomplishing their task.
+Intermediate researchers, industry technologists and practitioners. We are expecting a general background in information retrieval and machine learning. Given the interest of the WWW & CIKM community in information access, retrieval and user modelling, this tutorial on task based systems will provides attendees with a novel perspective of analysing log data, enabling them to view user interactions in a new light. The algorithmic approaches presented would help not only academic researchers but also industrial practitioners in better developing systems which support users in accomplishing their task.
 
 ### Learning outcomes
 The tutorial is aimed at introducing practitioners to the upcoming eld of search tasks. The main focus of the tutorial is (i)
@@ -76,8 +76,10 @@ approaches.
 ```
 
 ### Organizers
-1. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), Associate Professor, University College London; Faculty Fellow, Alan Turing Institute, London
+1. [Rishabh Mehrotra](http://www.rishabhmehrotra.com), Research Scientist, Spotify Research, London
 
-2. [Ahmed Hassan Awadallah](http://research.microsoft.com/en-us/um/people/hassanam/), Research Manager/Researcher, Microsoft Research
+2. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), Associate Professor, University College London; Faculty Fellow, Alan Turing Institute, London
 
-3. [Rishabh Mehrotra](http://www.rishabhmehrotra.com), Final year PhD student, University College London
+3. [Ahmed Hassan Awadallah](http://research.microsoft.com/en-us/um/people/hassanam/), Research Manager/Researcher, Microsoft Research
+
+
